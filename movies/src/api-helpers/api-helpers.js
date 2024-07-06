@@ -147,3 +147,5 @@ export const getAdminById = async () => {
   const resData = await res.data;
   return resData;
 };
+
+// api for all movies
